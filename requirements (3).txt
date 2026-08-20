@@ -1,0 +1,10 @@
+torch
+torchvision
+faiss-cpu
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+Pillow
+timm
