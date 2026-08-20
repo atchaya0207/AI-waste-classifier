@@ -68,8 +68,8 @@ Confidence outputs were validated against **2,000 labelled samples** to ensure r
 
 The app is free and requires no account or installation.
 
-👉 **[Open on Hugging Face Spaces](#)** ← replace with your actual link
-
+👉 https://atchaya0207.github.io/AI-wasteclassifier/ 
+https://huggingface.co/spaces/Atchaya0207/new-wofinalui
 ---
 
 ## Project structure
